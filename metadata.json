@@ -1,0 +1,5 @@
+{
+  "name": "PHP Visual Logic Builder",
+  "description": "A browser-based development platform for building PHP applications using graphical cards and logic blocks, with integrated AI code explanation.",
+  "requestFramePermissions": []
+}
